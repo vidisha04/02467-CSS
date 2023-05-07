@@ -1,6 +1,10 @@
-/Abstract_dataset.csv
-/Paper_dataset.csv
-/Author_dataset.csv
+OtherProjects/Abstract_dataset.csv
+OtherProjects/Paper_dataset.csv
+OtherProjects/Author_dataset.csv
+FinalProject/graph_tomato_link.json
+FinalProject/rotten_tomatoes_critic_reviews.csv
+FinalProject/rotten_tomatoes_movies.csv
+FinalProject/graph_with_att.json
 /api_key.yaml
 /Data
 /Weeks
